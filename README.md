@@ -4,7 +4,7 @@ Checking the persistence locations on an infected system is a common task for de
 
 The file can be overwhelming to analyze. Comparing the persistence location report with that of a clean system can significantly reduce the number of items to analyze.
 
-To use the script, you need to download the persistence locations from a confirmed clean system and compare it with the persistence locations on the infected system.
+To use the script, you need to download the persistence locations from a confirmed clean system and compare it with the persistence locations of the infected system.
 
 ## **Dependencies Installation**
 
